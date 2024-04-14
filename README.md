@@ -1,7 +1,7 @@
 # LM Studio Gradio Chat
 This repository contains a web-based chat application that integrates with various AI models from LM Studio, such as Mistral, OpenAI, and Llama, via a user-friendly Gradio interface. It is designed to maintain conversation history, providing a coherent and continuous AI chat experience comparable to systems like ChatGPT or Claude.
 
-https://github.com/Op27/lm-studio-gradio-chat/assets/39921621/555fa04f-a59a-465d-86c8-b30dba28ec40
+https://github.com/Op27/lm-studio-gradio-chat/assets/39921621/357d4aaf-1ab2-45d5-ad37-6ca34959c5e0
 
 ## Features
 - **Multiple AI Model Integration**: Integrates with a variety of conversational AI models hosted on LM Studio, including Mistral, OpenAI, Llama, and more, offering flexibility in choosing the AI technology.
